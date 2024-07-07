@@ -1,0 +1,4 @@
+Dear reader,
+This is a repository consisting of the projects conducted by me with the assisstance of my teachers at the Google Cybersecurity Course on Coursera.
+This portfolio will consist of projects that include but is not limited to: Python programming, Structured query language (SQL), Security Information and Event Management (SIEM) tools, the use of Linux operating system, and conducting internal security audits.
+There are eight domains within the Certified Information System Security Professional (CISSP) under The International Information System Security Certification Consortium (ISC2). During my induction of this project, I will be carefully surveying and determing which of the eight domains closely resembles my interest and passion for cybersecurity. Currently I am interested in Security Architecture and Engineering, Communication and Network Security, Identity and Access Management (IAM), and Security Operations.
